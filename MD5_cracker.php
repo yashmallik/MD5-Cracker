@@ -62,6 +62,6 @@ Debuging.....
     <input type="text" name="md5" size="60">
     <input type="submit" value="Crack MD5">
   </form>
-  <a href="hd5_maker.php">HD5 Maker</a>
+  <a href="md5_maker.php">HD5 Maker</a>
 </body>
 </html>
