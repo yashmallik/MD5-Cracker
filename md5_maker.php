@@ -26,6 +26,6 @@
 <input type="text"  name="md5" size="40">
 <input type="submit" value="Compute MD5 for PIN">
 </form>
-<a href="HD5_cracker.php">HD5 cracker</a>
+<a href="MD5_cracker.php">HD5 cracker</a>
 </body>
 </html>
