@@ -11,6 +11,7 @@
   <H4>This application takes an MD5 hash of four digit pin and check all possible four digit PINs to determine the yours PIN.</H4>
   <pre>
 Debuging.....
+<p>Srart.....</p>
 <?php
   $result="Pin not found";
   if ( isset($_GET["md5"])) {
